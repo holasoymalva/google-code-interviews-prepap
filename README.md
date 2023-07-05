@@ -3,11 +3,11 @@
 Welcome to the Google Code Interviews Questions and Code Challenges repository! This repository aims to provide a collection of common interview questions and coding challenges encountered in Google interviews. It serves as a valuable resource for candidates preparing for technical interviews at Google or any other company.
 
 ## Table of Contents
-* About
-* Contents
-* Usage
-* Contributing
-* License
+* [About](#about)
+* [Contents](#contents)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [License](#license)
 
 ## About
 This repository is created and maintained by a group of developers who have gone through the Google interview process or have experience with coding interviews at Google. The goal is to help aspiring software engineers and developers to practice coding problems and gain confidence in their problem-solving skills.
