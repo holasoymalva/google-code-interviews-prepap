@@ -33,9 +33,9 @@ Here is an overview of the contents of this repository:
 Feel free to explore the repository and use the content to prepare for your interviews. You can clone the repository using the following command:
 
 
-´´´bash
+```bash
 git clone https://github.com/your-username/google-code-interviews.git
-´´´
+```
 
 Once you have cloned the repository, navigate to the relevant section and explore the questions and challenges provided. Each question or challenge includes a detailed problem statement along with a solution in popular programming languages such as Python, Java, and C++.
 
