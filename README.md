@@ -57,4 +57,4 @@ We will review your contribution and merge it if it aligns with the goals of the
 
 
 ## License
-This repository is licensed under the (MIT License)[./LICENSE]. By contributing to this repository, you agree to license your contributions under the same license.
+This repository is licensed under the [MIT License](./LICENSE). By contributing to this repository, you agree to license your contributions under the same license.
