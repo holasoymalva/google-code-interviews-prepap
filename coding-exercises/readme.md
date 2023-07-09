@@ -23,3 +23,8 @@ Here is an overview of the contents of this repository:
 * **System Design**: This section includes challenges that assess your ability to design scalable and efficient systems. They cover topics such as distributed systems, load balancing, caching, and database design.
 
 * **Additional Topics**: This section encompasses challenges on miscellaneous topics such as bit manipulation, concurrency, string manipulation, and more.
+
+## Coding Exercises
+
+
+  
