@@ -26,8 +26,8 @@ Here is an overview of the contents of this repository:
 
 ## Coding Exercises
 
-* [Exercise 1:]()
-* [Exercise 2:]()
+* [Exercise 1:Coin Change]()
+* [Exercise 2:longest increasing subsequence]()
 * [Exercise 3:]()
 * [Exercise 4:]()
 * [Exercise 5:]()
