@@ -7,6 +7,7 @@ Welcome to the Google Code Interviews Questions and Code Challenges repository! 
 * [Contents](#contents)
 * [Usage](#usage)
 * [Contributing](#contributing)
+* [Coding Exercises](./coding-exercises)
 * [License](#license)
 
 ## About
