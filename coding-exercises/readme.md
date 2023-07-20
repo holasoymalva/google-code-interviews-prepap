@@ -34,4 +34,12 @@ Here is an overview of the contents of this repository:
 * [Exercise 6:]()
 * [Exercise 7:]()
 
-  
+## Question System Design
+
+Design a system that manages video assets and 
+retrieves additional metadata from multiple 
+sources (e.g. IMDB, Rotten Tomatoes) about each asset. 
+These assets are ingested from a shared location with 
+content providers (e.g: ObjectStorage), processed by 
+this system, and then made accessible to users.
+
